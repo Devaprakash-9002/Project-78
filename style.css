@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background-color:rgba(82, 77, 121, 0.555);
+}
+h1 {
+    color: blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif;
+}
+img {
+    height: 400px;
+    width: 200px;
+}
+h3 {
+    color: rgb(192, 13, 168);
+    font-family: Jokerman;
+}
