@@ -1,5 +1,5 @@
-var image_array=["deva.png", "Prasanna Kumar.jpg", "Suriyakala.jpg", "Subramaniam.jpg"];
-var ppl_name=["Devaprakash", "Prasanna Kumar", "Suriyakala", "Subramaniam"];
+var image_array=["https://i.postimg.cc/MKdhy06Z/family.jpg","deva.png", "Prasanna Kumar.jpg", "Suriyakala.jpg", "Subramaniam.jpg"];
+var ppl_name=["Family","Devaprakash", "Prasanna Kumar", "Suriyakala", "Subramaniam"];
 var i = 0;
 function update() {
     i++;
